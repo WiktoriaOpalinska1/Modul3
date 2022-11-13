@@ -1,0 +1,17 @@
+/*Global*/
+$main-font: 'Courier Prime', monospace;
+$title-font: 'Montserrat', sans-serif;
+$logo-font: 'Style Script', cursive;
+$main-color: rgb(0,0,0);
+$color-one: rgb(255,255,255);
+$color-two: rgb(254,209,54);
+/*Header*/
+header{
+    .container{
+        .row {
+            .navbar-logo{
+                font-family: $logo-font;
+            }
+        }
+    }
+}
