@@ -63,6 +63,9 @@ html {
   margin-right: -15px;
   margin-left: -15px;
 }
+.copyrights span{
+  font-family: 'Times New Roman', Times, serif;
+}
 
 .no-gutters {
   margin-right: 0;
